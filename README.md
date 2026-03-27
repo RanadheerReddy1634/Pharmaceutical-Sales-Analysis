@@ -26,13 +26,19 @@ The project uses a star schema data model consisting of four tables:
 5. Design of four interactive report pages with slicers, toggles, and tooltips.
 
 ### 📊 Dashboard Preview
-The dashboard consists of four main pages:
-- **Top/Bottom Analysis**: Monthly KPIs with variance and top/bottom performers by transactions.
-- **Customer Analysis**: Revenue breakdown by country, gender, age group, buyer type, and interactive map.
-- **Trend Analysis**: Yearly, quarterly, monthly trends, MoM changes, weekday heatmap, and top drugs.
-- **Tooltip Support**: Detailed drug-level insights for age groups and countries.
 
-(Images of all dashboard pages are available in the repository under /Screenshots folder)
+**1. Top/Bottom Analysis Page**
+![Top/Bottom Analysis](images/top-bottom_analysis.png)
+
+**2. Customer Analysis**
+![Customer Analysis](images/customer_analysis.png)
+
+**3. Trend Analysis**
+![Trend Analysis](trend_analysis.png)
+
+**4. Tooltip Support**: Detailed drug-level insights for age groups and countries.
+
+> Additional detailed screenshots of tooltips and Data Model(Relationships) are available in the [`/images`](images/) folder.
 
 ### 💡 Key Business Insights Delivered
 - Total revenue reached **$65M**, with strong growth from 2022 ($3M) to 2023 ($62M).
