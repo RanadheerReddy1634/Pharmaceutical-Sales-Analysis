@@ -34,7 +34,7 @@ The project uses a star schema data model consisting of four tables:
 ![Customer Analysis](images/customer_analysis.png)
 
 **3. Trend Analysis**
-![Trend Analysis](trend_analysis.png)
+![Trend Analysis](images/trend_analysis.png)
 
 **4. Tooltip Support**: Detailed drug-level insights for age groups and countries.
 
