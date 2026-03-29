@@ -55,3 +55,8 @@ The project uses a star schema data model consisting of four tables:
 - **Power Query** — Data loading and transformation
 - **Data Visualization** — KPI cards, bar charts, donut charts, line charts, heatmaps, and map visuals
 
+### Demo Video
+For a complete walkthrough of the dashboard, including tooltips, bookmarks, DAX measures, and page navigation, please watch the demo video on LinkedIn :
+▶️ [Watch Demo Video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7443207880583028736/?originTrackingId=s%2F27wGqFQwoAQY%2F15HF7ug%3D%3D)
+
+For any questions or further clarification, fell free to reach out!
